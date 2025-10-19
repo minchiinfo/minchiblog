@@ -3,7 +3,7 @@
     <title>minchi news</title>
     <link href="https://minchiinfo.github.io/minchiblog/feed.xml" rel="self" />
     <link href="https://minchiinfo.github.io/minchiblog" />
-    <updated>2025-10-19T23:47:32+09:00</updated>
+    <updated>2025-10-19T23:54:05+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
@@ -38,6 +38,7 @@
         <link href="https://minchiinfo.github.io/minchiblog/3tumu-noji-shi-desu3tumu/"/>
         <id>https://minchiinfo.github.io/minchiblog/3tumu-noji-shi-desu3tumu/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/3/softcream-2.jpg" medium="image" />
+            <category term="news"/>
 
         <updated>2025-10-19T18:26:01+09:00</updated>
             <summary></summary>
@@ -56,6 +57,7 @@
         <link href="https://minchiinfo.github.io/minchiblog/er-tumu-noji-shi-desu/"/>
         <id>https://minchiinfo.github.io/minchiblog/er-tumu-noji-shi-desu/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/2/tumblr_acb570745d5f22ff8d432358378c1c86_51b2da1f_1280-2.jpg" medium="image" />
+            <category term="news"/>
 
         <updated>2025-10-19T18:24:44+09:00</updated>
             <summary></summary>
