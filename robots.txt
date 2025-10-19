@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://minchiinfo.github.io/minchiblog/sitemap.xml

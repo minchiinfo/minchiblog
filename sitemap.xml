@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://minchiinfo.github.io/minchiblog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://minchiinfo.github.io/minchiblog/</loc>
+</url>
+<url>
+<loc>https://minchiinfo.github.io/minchiblog/1tumenoji-shi-desuyi-tumu.html</loc>
+<lastmod>2025-10-19T18:23:14+09:00</lastmod>
+<image:image>
+<image:loc>https://minchiinfo.github.io/minchiblog/media/posts/1/tumblr_a7e9b99318fad2dfdffcaa642b9cdcd6_460a57ea_1280.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://minchiinfo.github.io/minchiblog/3tumu-noji-shi-desu3tumu.html</loc>
+<lastmod>2025-10-19T18:26:04+09:00</lastmod>
+<image:image>
+<image:loc>https://minchiinfo.github.io/minchiblog/media/posts/3//softcream.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://minchiinfo.github.io/minchiblog/er-tumu-noji-shi-desu.html</loc>
+<lastmod>2025-10-19T18:24:44+09:00</lastmod>
+<image:image>
+<image:loc>https://minchiinfo.github.io/minchiblog/media/posts/2/tumblr_acb570745d5f22ff8d432358378c1c86_51b2da1f_1280.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
