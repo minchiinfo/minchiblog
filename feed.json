@@ -5,10 +5,26 @@
     "home_page_url": "https://minchiinfo.github.io/minchiblog",
     "feed_url": "https://minchiinfo.github.io/minchiblog/feed.json",
     "user_comment": "",
+    "icon": "https://minchiinfo.github.io/minchiblog/media/website/1con_2.png",
     "author": {
         "name": "minchi"
     },
     "items": [
+        {
+            "id": "https://minchiinfo.github.io/minchiblog/tesutuuuu/",
+            "url": "https://minchiinfo.github.io/minchiblog/tesutuuuu/",
+            "title": "てすつううう",
+            "summary": "てすとっっっっっっt。っああああああ。ああああ、あああああああ。てすとっっっっっっt。っああああああ。ああああ、あああああああ。てすとっっっっっっt。っああああああ。ああああ、あああああああ。てすとっっっっっっt。っああああああ。ああああ、あああああああ。 てすとっっっっっっt。っああああああ。ああああ、あああああああ。",
+            "content_html": "<p>てすとっっっっっっt。っああああああ。ああああ、あああああああ。てすとっっっっっっt。っああああああ。ああああ、あああああああ。てすとっっっっっっt。っああああああ。ああああ、あああああああ。てすとっっっっっっt。っああああああ。ああああ、あああああああ。</p>\n<p>てすとっっっっっっt。っああああああ。ああああ、あああああああ。</p>",
+            "author": {
+                "name": "minchi"
+            },
+            "tags": [
+                   "news"
+            ],
+            "date_published": "2025-10-20T04:01:54+09:00",
+            "date_modified": "2025-10-20T04:03:11+09:00"
+        },
         {
             "id": "https://minchiinfo.github.io/minchiblog/6ge-mu-dayo/",
             "url": "https://minchiinfo.github.io/minchiblog/6ge-mu-dayo/",
