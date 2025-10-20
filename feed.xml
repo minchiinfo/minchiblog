@@ -3,7 +3,7 @@
     <title>minchi / news</title>
     <link href="https://minchiinfo.github.io/minchiblog/feed.xml" rel="self" />
     <link href="https://minchiinfo.github.io/minchiblog" />
-    <updated>2025-10-20T04:54:06+09:00</updated>
+    <updated>2025-10-20T11:18:43+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
@@ -124,6 +124,7 @@
         <id>https://minchiinfo.github.io/minchiblog/3tumu-noji-shi-desu3tumu/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/3/softcream-2.jpg" medium="image" />
             <category term="news"/>
+            <category term="exhibition"/>
 
         <updated>2025-10-19T18:26:01+09:00</updated>
             <summary>
