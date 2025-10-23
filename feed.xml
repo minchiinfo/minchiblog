@@ -17,8 +17,8 @@
         <link href="https://minchiinfo.github.io/minchiblog/10_nyushichan_ekakiuta/"/>
         <id>https://minchiinfo.github.io/minchiblog/10_nyushichan_ekakiuta/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/10/niyuusitiyanHui-Miao-kiGe_Heng-Chang_samune-2.jpg" medium="image" />
+            <category term="picture books"/>
             <category term="news"/>
-            <category term="Picture book"/>
 
         <updated>2025-10-20T22:41:34+09:00</updated>
             <summary>
@@ -70,7 +70,7 @@
         <id>https://minchiinfo.github.io/minchiblog/8_exhibition_kouchi/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/8/tumblr_60774b43131089f2bfbcd12c7f4c8a67_ae708b6c_2048-2.jpg" medium="image" />
             <category term="news"/>
-            <category term="exhibition"/>
+            <category term="exhibitions"/>
 
         <updated>2025-10-20T20:08:35+09:00</updated>
             <summary>
@@ -94,8 +94,8 @@
         <link href="https://minchiinfo.github.io/minchiblog/7_eikyushi_chan/"/>
         <id>https://minchiinfo.github.io/minchiblog/7_eikyushi_chan/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/7/tumblr_cf9674341197320dd5b320ea464306c3_5c07a90e_2048-2.jpg" medium="image" />
+            <category term="picture books"/>
             <category term="news"/>
-            <category term="Picture book"/>
 
         <updated>2025-10-20T04:01:54+09:00</updated>
             <summary>
@@ -120,8 +120,8 @@
         <link href="https://minchiinfo.github.io/minchiblog/6_nyushichan_9_16/"/>
         <id>https://minchiinfo.github.io/minchiblog/6_nyushichan_9_16/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/6/tumblr_dcaf1d581574b55900421f32685a7d85_ff6d91e2_2048.jpg" medium="image" />
+            <category term="picture books"/>
             <category term="news"/>
-            <category term="Picture book"/>
 
         <updated>2025-10-20T01:42:22+09:00</updated>
             <summary>
@@ -145,7 +145,7 @@
         <link href="https://minchiinfo.github.io/minchiblog/5_new_year_nyu/"/>
         <id>https://minchiinfo.github.io/minchiblog/5_new_year_nyu/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/5/tumblr_04396a8ee010e50c7211ca65e97c02cd_d4d19e99_2048-2.jpg" medium="image" />
-            <category term="blog"/>
+            <category term="notes"/>
 
         <updated>2025-10-20T00:50:20+09:00</updated>
             <summary>
@@ -170,8 +170,8 @@
         <link href="https://minchiinfo.github.io/minchiblog/4_zubon/"/>
         <id>https://minchiinfo.github.io/minchiblog/4_zubon/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/4/tumblr_73ce9574f1d0d2f4bf90a2224f8018d0_c9a1fb61_2048-2.png" medium="image" />
+            <category term="picture books"/>
             <category term="news"/>
-            <category term="Picture book"/>
 
         <updated>2025-10-19T20:25:27+09:00</updated>
             <summary>
@@ -198,7 +198,7 @@
         <id>https://minchiinfo.github.io/minchiblog/3_nyushichan2024/</id>
         <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/3/tumblr_6d44aa8e4113ec1f484b18629a1c9c41_0ed3ee51_2048-2.jpg" medium="image" />
             <category term="news"/>
-            <category term="exhibition"/>
+            <category term="exhibitions"/>
 
         <updated>2025-10-19T18:26:01+09:00</updated>
             <summary>
