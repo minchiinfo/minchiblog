@@ -3,12 +3,37 @@
     <title>minchi / news</title>
     <link href="https://minchiinfo.github.io/minchiblog/feed.xml" rel="self" />
     <link href="https://minchiinfo.github.io/minchiblog" />
-    <updated>2025-10-24T21:23:40+09:00</updated>
+    <updated>2025-11-01T00:03:41+09:00</updated>
     <author>
         <name>minchi</name>
     </author>
     <id>https://minchiinfo.github.io/minchiblog</id>
 
+    <entry>
+        <title>えいきゅうしちゃん重版決定</title>
+        <author>
+            <name>minchi</name>
+        </author>
+        <link href="https://minchiinfo.github.io/minchiblog/12_eikyushi/"/>
+        <id>https://minchiinfo.github.io/minchiblog/12_eikyushi/</id>
+        <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/12/12.png" medium="image" />
+            <category term="picture books"/>
+            <category term="news"/>
+
+        <updated>2025-10-31T22:38:23+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://minchiinfo.github.io/minchiblog/media/posts/12/12.png" alt="" />
+                    絵本「えいきゅうしちゃん」重版が決定しました。お手にとって下さったみなさん本当にありがとうございます！みなさんがえいきゅうしちゃんを読んで楽しんでくださったならうれしいです。 重版記念にえいきゅうしちゃんの動画を作ってみました。動きがなんだか変ですが気にしないで見てもらえたらありがたいです。 最近はAdobe&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://minchiinfo.github.io/minchiblog/media/posts/12/12.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://minchiinfo.github.io/minchiblog/media/posts/12/eikiyuusitiyanChong-Ban.mp4" alt=""></figure>絵本「えいきゅうしちゃん」重版が決定しました。お手にとって下さったみなさん本当にありがとうございます！みなさんがえいきゅうしちゃんを読んで楽しんでくださったならうれしいです。<br><br>重版記念にえいきゅうしちゃんの動画を作ってみました。動きがなんだか変ですが気にしないで見てもらえたらありがたいです。<br><br>最近はAdobe After Effectsというソフトでアニメを作っています。2Dのパラパラアニメだと１コマ１コマ絵を描かないといけないけど、After Effectsなら最低絵が１枚あるだけでもアニメが作れてしまうのです。<br><br>かといって、すごく簡単かというとパラパラアニメとはまた違う難しさがあるのですが…。いつか長めのアニメを作りたいと思いつつなかなか道のりは長いです。</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>にゅうしちゃん 絵描き歌</title>
         <author>
@@ -242,30 +267,6 @@
 <figure class="gallery__item"><a href="https://minchiinfo.github.io/minchiblog/media/posts/2/gallery/tumblr_f70e7d2ccaac17b843200679cfbc0147_71bc2130_1280.jpg" data-size="1280x1540"><img loading="lazy" src="https://minchiinfo.github.io/minchiblog/media/posts/2/gallery/tumblr_f70e7d2ccaac17b843200679cfbc0147_71bc2130_1280-thumbnail.jpg" alt="" width="768" height="924"></a></figure>
 </div></div>
 <p>8/28発売、『Numéro TOKYO』2024年10月号「からだ・こころの新潮流」のコーナーで扉絵を担当させていただきました。また、「今月のゲストクリエイターズ」のコーナーにもご紹介いただきました。ありがとうございます！<br><a href="https://numero.jp/magazine180/2_2_" target="_blank" rel="noopener noreferrer">https://numero.jp/magazine180/2_2_</a><br><br>1枚目の写真は原画。2枚目の写真は制作の様子。アクリルガッシュ、色鉛筆、コピックマルチライナーで制作。<br><br>ちなみに絵の中の紫のキャラはトリカブトの花です。 <br><br>（2024/8/28投稿）</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>サイトリニューアル</title>
-        <author>
-            <name>minchi</name>
-        </author>
-        <link href="https://minchiinfo.github.io/minchiblog/1_websiterenewal/"/>
-        <id>https://minchiinfo.github.io/minchiblog/1_websiterenewal/</id>
-        <media:content url="https://minchiinfo.github.io/minchiblog/media/posts/1/1_kusa-2.jpg" medium="image" />
-            <category term="news"/>
-
-        <updated>2025-10-19T18:23:14+09:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://minchiinfo.github.io/minchiblog/media/posts/1/1_kusa-2.jpg" alt="" />
-                    サイトをようやくリニューアルしました。 夏なのにトップページの絵が冬っぽいですが気にしないでください。 https://minchi.info&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://minchiinfo.github.io/minchiblog/media/posts/1/1_kusa-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://minchiinfo.github.io/minchiblog/media/posts/1/1_kusa.jpg" alt="" width="1000" height="1071" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://minchiinfo.github.io/minchiblog/media/posts/1/responsive/1_kusa-xs.jpg 320w ,https://minchiinfo.github.io/minchiblog/media/posts/1/responsive/1_kusa-sm.jpg 480w ,https://minchiinfo.github.io/minchiblog/media/posts/1/responsive/1_kusa-md.jpg 768w ,https://minchiinfo.github.io/minchiblog/media/posts/1/responsive/1_kusa-xl.jpg 1024w"></figure><br><br>サイトをようやくリニューアルしました。<br><br>夏なのにトップページの絵が冬っぽいですが気にしないでください。<br><a href="https://minchi.info" target="_blank" rel="noopener noreferrer">https://minchi.info</a><br><br>今までWord Pressを使ってサイトを作っていたんですが、自作のテーマ（デザイン）を使って変なやり方をしていたために新しいテーマに変えるのが難しくて（表示が崩れてしまう）一旦Word Pressで作るのをやめようとしていました。<br><br>で、去年の3月ぐらいに一回リニューアルを試みたんですが、レスポンシブデザイン（PCやスマホなどの画面サイズが異なるデバイスで表示できるようにする）が上手くできなくてずっーと放置状態になっていました。<br><br>それから１年以上経過して、やっぱり今の状態ではスマホから見ずらいし、そのためにブログの方も停止状態になっていたので、どうにかしたいなと思い立ってもう一回チャレンジしてみたらなんとなく上手くいったかも？しれないです…？<br><br>「1冊ですべて身に付く HTML &amp; CSSとWebデザイン入門講座」という本と、こちらのサイトがとても役に立ちました。<br><a href="https://atmarkit.itmedia.co.jp/ait/articles/1403/20/news050.html" target="_blank" rel="noopener noreferrer">https://atmarkit.itmedia.co.jp...</a><br><br>一応自分の環境ではちゃんと見れているんですが、それ以外の環境はわからないので、もし何か不具合などあればお知らせしてもらえると助かります。<br><br>ギャラリー（artwork）と更新情報のまとめブログ（news）は1から設置する元気がなくてtumblrで作りました。tumblrはまだ使い始めたばかりでカスタマイズ方法がよくわかりません。<br><br>tumblrをやっていない方が見ると、tumblrへのお誘い広告みたいなものが出るのでもしかしたらちょっと見ずらいかもしれません。<br><br>外部のサイトはサービス内容が変更になったり終了したりなどもあるので、出来れば全部自分で作りたかったんですが、ギャラリーなんかは作品が多くて手がつけられない状態になっています。<br><br>また色々良い方法がないか考えてみたいと思います。<br><br>ちなみにギャラリー（artwork）の方はまだ工事中の状態です。ぼちぼち作品を追加していきたいと思ってます。<br><br>前のサイトは消していないので過去作品が見たい方はこちら↓からどうぞ。<br><a href="https://minchi.info/news/" target="_blank" rel="noopener noreferrer">https://minchi.info/news/</a><br><br>（2024/8/13投稿）</p>
             ]]>
         </content>
     </entry>
